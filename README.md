@@ -19,3 +19,7 @@ No special setup is required as the platform is based on the "No Style, Please" 
 ## Future Plans
 
 Currently, the focus is on posting new notes whenever time allows.
+
+## Update
+
+I no longer update new notes on this site. You can find all my latest notes at [feed.syazarilasyraf.com](https://github.com/syazarilasyraf/feed/syazarilasyraf.com).
